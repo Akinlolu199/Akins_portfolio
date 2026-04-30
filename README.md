@@ -1,4 +1,4 @@
-# Staff Exit Analysis Dashboard 📊
+# Staff Exit Analysis Dashboard 
 
 An interactive Power BI dashboard analysing employee exit patterns across
 departments, gender, job type, and exit reasons to support HR 
