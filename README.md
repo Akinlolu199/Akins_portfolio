@@ -52,14 +52,6 @@ employees to surface trends that HR and leadership can act on.
 ## Dashboard Preview
 ![Staff Exit Analysis Dashboard](Staff Exit Analysis.png)
 
----
-
-## Files in this Repository
-| File | Description |
-|------|-------------|
-| `Staff_Exit_Analysis.pbix` | Power BI dashboard file |
-| `staff_exit_data.xlsx` | Cleaned dataset used for analysis |
-| `screenshots/Staff_Exit_Analysis.png` | Dashboard preview image |
 
 ---
 
